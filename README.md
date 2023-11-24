@@ -2,7 +2,7 @@
 How to get a AWS Cloud Quest: Cloud Practitioner Badge 🆓 FREE ( Quick Guide )
 Hello ✨ Namaste  ! Getting a AWS Cloud Quest: Cloud Practitioner Badge ( 😼 Credly Verified ) is totally free of cost and really a good opportunity for any tech enthusiasts .... and you should get it.
 
-For me its my first Credly Badge ╰(*°▽°*)╯credly. com / badges /0e7956e4-35d1-4f03-a747-8c4465cc1da7/public_url
+For me its my first Credly Badge ╰(*°▽°*)╯ www.credly.com/badges/0e7956e4-35d1-4f03-a747-8c4465cc1da7
 
 **What will you need ?**
 - Amazon Account ( Existing or New ) 🪄
@@ -11,7 +11,7 @@ For me its my first Credly Badge ╰(*°▽°*)╯credly. com / badges /0e7956e4
 - Passion
 
 **Steps** 🪲
-
+**screenshot**
 1. Login into ↗️ **cloudquest.skillbuilder.aws**
 And , Enter your login credentials and Allow if some window appear and you will see 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F17899173%2Feded82571b849f34e8a9a1061139f11d%2FUntitled.png?generation=1700843991525886&alt=media)
