@@ -1,4 +1,8 @@
 # AWS-Cloud-Quest-Cloud-Practitioner
+
+Also available on Medium.com
+https://medium.com/@gaganhonor/how-to-get-a-free-aws-badge-and-certificate-0b23ebffb2bd
+
 How to get a AWS Cloud Quest: Cloud Practitioner Badge 🆓 FREE ( Quick Guide )
 Hello ✨ Namaste  ! Getting a AWS Cloud Quest: Cloud Practitioner Badge ( 😼 Credly Verified ) is totally free of cost and really a good opportunity for any tech enthusiasts .... and you should get it.
 
@@ -28,7 +32,7 @@ Enjoy ✨
 
 
 
-It's my first post on Kaggle i thought i should share something ..
+Sharing is Caring ..
 I am interested in Ai and Cloud Computing 
 Thanks For your time , and sorry for any mistakes 
 
